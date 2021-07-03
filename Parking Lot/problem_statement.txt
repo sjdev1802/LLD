@@ -1,0 +1,9 @@
+// design a parking lot
+
+Requirements --> 
+
+1. multiple entry/exit terminals (entry terminals will have printer and exit terminals will have printer as well as payment processor)
+2. different types of parking spot
+3. ticket generation
+4. monitoring system
+5. database
